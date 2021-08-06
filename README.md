@@ -33,7 +33,7 @@ p.s: Подразумеваю, что машина с KVM настроена, з
 # Installation
 
 ```bash
-git clone git://github.com/ozz.life/tempKVMFlaskVue
+git clone git://github.com/ozz-life/tempKVMFlaskVue
 cd tempKVMFlaskVue/frontend/
 npm install
 npm run build
